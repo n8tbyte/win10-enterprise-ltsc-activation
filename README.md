@@ -111,8 +111,3 @@ cscript.exe %windir%\system32\slmgr.vbs /ato
 - Internet connection required during activation
 - This process is legal for testing and development purposes only
 - For commercial use, please purchase a license from Microsoft
-
----
-
-**Created by:** Community  
-**Last Updated:** 2024
